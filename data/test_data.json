@@ -1,5 +1,17 @@
 {
-  "game1" : { "title" : "Chip's Challenge", "year": 1989, "platform" : {"name" : "Atari Lynx", "launch_year" : 1989}},
-  "game2" : { "title" : "Chip's Challenge 2", "year": 2015, "platform" : {"name" : "Steam" , "launch_year" : 2003}},
-  "game3" : { "title" : "Tile world", "year": 2002, "platform" : {"name" : "Windows, Linux, Mac and Illumos", "launch_year" : 2002}}
+  "game1" :
+  { "title" : "Chip's Challenge",
+    "year": 1989,
+    "platform" : {"name" : "Atari Lynx", "launch_year" : 1989}
+  },
+  "game2" :
+  { "title" : "Chip's Challenge 2",
+    "year": 2015,
+    "platform" : {"name" : "Steam" , "launch_year" : 2003}
+  },
+  "game3" :
+  { "title" : "Tile world",
+    "year": 2002,
+    "platform" : {"name" : "Windows, Linux, Mac and Illumos", "launch_year" : 2002}
+  }
 }
